@@ -1,0 +1,44 @@
+2025-01-21 16:08:38 - INFO --> Log file created for user: satyam_singh
+2025-01-21 16:08:38 - INFO --> Validated Full Name: Satyam Sa Singh
+2025-01-21 16:08:38 - DEBUG --> Starting validate...
+2025-01-21 16:08:44 - INFO --> Valid input for Mobile No: 8104785005
+2025-01-21 16:08:44 - DEBUG --> validate Completed.
+2025-01-21 16:08:44 - DEBUG --> Starting validate...
+2025-01-21 16:08:47 - INFO --> Valid gender: Male
+2025-01-21 16:08:47 - DEBUG --> validate Completed.
+2025-01-21 16:08:47 - DEBUG --> Starting validate...
+2025-01-21 16:08:59 - INFO --> Valid input for Email: satyam06062001@gmail.com
+2025-01-21 16:08:59 - DEBUG --> validate Completed.
+2025-01-21 16:08:59 - DEBUG --> Starting validate...
+2025-01-21 16:09:10 - INFO --> Valid input for Pancard: LYXPS1925A
+2025-01-21 16:09:10 - DEBUG --> validate Completed.
+2025-01-21 16:09:10 - DEBUG --> Starting validate...
+2025-01-21 16:09:17 - INFO --> Valid input for Date of Birth: 2001-Jun-06
+2025-01-21 16:09:17 - DEBUG --> validate Completed.
+2025-01-21 16:09:17 - DEBUG --> Starting validate...
+2025-01-21 16:09:25 - WARNING --> Validation failed for Address: nalanda,bihar. Reason: Please follow the format: (City, State - 123456)
+ 
+2025-01-21 16:09:48 - WARNING --> Validation failed for Address: nalanda,bihar 803111. Reason: Please follow the format: (City, State - 123456)
+ 
+2025-01-21 16:10:05 - INFO --> Valid input for Address: pune, maharashtra - 422605
+2025-01-21 16:10:05 - DEBUG --> validate Completed.
+2025-01-21 16:10:05 - DEBUG --> Starting validate...
+2025-01-21 16:10:16 - INFO --> Valid input for Password: Satyam@123
+2025-01-21 16:10:16 - DEBUG --> validate Completed.
+2025-01-21 16:10:16 - DEBUG --> Starting calculate_age...
+2025-01-21 16:10:16 - INFO --> Calculated age: 23
+2025-01-21 16:10:16 - DEBUG --> calculate_age Completed.
+2025-01-21 16:10:16 - INFO --> User registration completed.
+2025-01-21 16:10:16 - DEBUG --> Starting display...
+2025-01-21 16:10:16 - DEBUG --> display Completed.
+2025-01-21 16:10:16 - INFO --> Log file created for user: Satyam_Singh
+2025-01-21 16:10:16 - DEBUG --> Starting login...
+2025-01-21 16:10:22 - INFO --> Valid input entered: 8104785005
+2025-01-21 16:10:27 - INFO --> Successfully Logged-In: 8104785005
+2025-01-21 16:10:27 - DEBUG --> login Completed.
+2025-01-21 16:10:27 - DEBUG --> Starting bookTicket...
+2025-01-21 16:10:37 - INFO --> Ticket booked: Pune to Mumbai
+2025-01-21 16:10:37 - DEBUG --> bookTicket Completed.
+2025-01-21 16:10:37 - DEBUG --> Starting logout...
+2025-01-21 16:10:37 - INFO --> satyam06062001@gmail.com log out successfully!
+2025-01-21 16:10:37 - DEBUG --> logout Completed.
